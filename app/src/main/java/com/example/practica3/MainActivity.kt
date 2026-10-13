@@ -165,7 +165,7 @@ fun LoginGym(navController: NavController) {
         }
     }
 }
-
+//JUAN JOSE ARREDONDO ZAVALA AGREGUE EL CODIGO DEL MENU
 @Composable
 fun MenuGym(navController: NavController) {
     Column(

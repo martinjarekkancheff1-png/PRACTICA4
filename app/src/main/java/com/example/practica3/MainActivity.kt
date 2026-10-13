@@ -78,7 +78,7 @@ class MainActivity : ComponentActivity() {
                             navController
                         )
                     }
-
+//AHARON EZEQUIEL AGREGUE EL CODIGO DE LA TABLA DE ENTRENADORES
                     composable("entrenadores") {
                         ModuloGym(
                             "Entrenadores",

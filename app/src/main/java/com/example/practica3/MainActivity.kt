@@ -101,7 +101,7 @@ class MainActivity : ComponentActivity() {
         }
     }
 }
-
+//JUAN JOSE ARREDONDO ZAVALA AGREGUE EL CODIGO INICIO DE SESION
 @Composable
 fun LoginGym(navController: NavController) {
     val context = LocalContext.current

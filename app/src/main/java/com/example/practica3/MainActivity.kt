@@ -60,7 +60,7 @@ class MainActivity : ComponentActivity() {
                             navController
                         )
                     }
-
+//MARTIN JAREK AGREGUE EL CODIGO DE LA TABLA DE MEMBRESIAS
                     composable("membresias") {
                         ModuloGym(
                             "Membresías",

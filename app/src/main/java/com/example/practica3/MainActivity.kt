@@ -69,7 +69,7 @@ class MainActivity : ComponentActivity() {
                             navController
                         )
                     }
-
+//BRAYAN EDUARDO AGREGUE EL CODIGO DE LA TABLA DE RUTINAS
                     composable("rutinas") {
                         ModuloGym(
                             "Rutinas",

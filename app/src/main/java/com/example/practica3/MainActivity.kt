@@ -87,7 +87,7 @@ class MainActivity : ComponentActivity() {
                             navController
                         )
                     }
-
+//SERGIO ARTURO AGREGUE EL CODIGO DE LA TABLA DE PAGOS
                     composable("pagos") {
                         ModuloGym(
                             "Pagos",

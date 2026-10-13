@@ -21,7 +21,7 @@ import androidx.navigation.NavController
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
-
+//este es un cambio
 data class Registro(
     val campos: List<String>
 )

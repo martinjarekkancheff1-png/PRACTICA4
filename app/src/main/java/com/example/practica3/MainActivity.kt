@@ -51,7 +51,7 @@ class MainActivity : ComponentActivity() {
                     composable("menu") {
                         MenuGym(navController)
                     }
-
+//JUAN JOSE ARREDONDO ZAVALA AGREGUE EL CODIGO DE LA TABLA DE CLIENTES
                     composable("clientes") {
                         ModuloGym(
                             "Clientes",

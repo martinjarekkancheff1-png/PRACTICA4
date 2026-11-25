@@ -25,7 +25,7 @@ import androidx.navigation.compose.rememberNavController
 data class Registro(
     val campos: List<String>
 )
-
+/
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
